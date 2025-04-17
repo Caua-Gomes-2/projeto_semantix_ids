@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capa_projeto_semantix_ids.png" width="600"/>
+</p>
+
 
 # Projeto Semantix – Análise do Índice de Desenvolvimento Social (IDS)
 
